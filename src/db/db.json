@@ -1,0 +1,44 @@
+{
+  "motorcyclists": [
+    {
+      "id": 1,
+      "full_name": "John Doe",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "full_name": "John Smith",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "full_name": "Jane Doe",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "full_name": "William Johnson",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "full_name": "Sarah Davis",
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "full_name": "Michael Miller",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "full_name": "Emily Jones",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "full_name": "Richard Brown",
+      "enabled": true
+    }
+  ]
+}
